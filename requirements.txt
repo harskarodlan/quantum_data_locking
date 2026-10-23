@@ -1,0 +1,5 @@
+# Direct dependencies used to generate the experiment results (pip install -r requirements.txt).
+numpy==2.4.6
+qiskit==2.5.2
+matplotlib==3.11.2
+pylatexenc==2.11

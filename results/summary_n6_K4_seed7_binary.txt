@@ -1,0 +1,5 @@
+scenario       recovery  entropy [bits]
+correct key    1.000000          0.0000
+wrong key      0.009115          5.3789
+no key         0.008789          5.3345
+direct         0.015625          6.0000

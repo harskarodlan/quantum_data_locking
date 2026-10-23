@@ -1,0 +1,5 @@
+strategy       I(m;mp) [bits]  of max
+correct key            6.0000   1.000
+guessed key            2.3401   0.390
+no key                 0.3712   0.062
+direct                 0.0000   0.000
